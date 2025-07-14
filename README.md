@@ -55,7 +55,7 @@ A Single Page Application (SPA) template for managing events and venues with use
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [<your-repository-url>](https://github.com/clevervi/DM3M3)
+   git clone https://github.com/clevervi/DM3M3
    ```
 
 2. Install dependencies:

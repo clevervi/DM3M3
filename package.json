@@ -1,0 +1,14 @@
+{
+  "name": "usuario123",
+  "version": "1.0.0",
+  "scripts": {
+    "start:api": "json-server --watch db.json --port 3000",
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

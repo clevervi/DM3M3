@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Main Organizer",
+      "email": "organizer@example.com",
+      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "role": "organizer"
+    },
+    {
+      "id": "2",
+      "name": "Regular Attendee",
+      "email": "attendee@example.com",
+      "password": "c21a4bb7a5ab73cd27daa23bef91bc9d75ba2689afecb4cc3fbf5d9b203eaa5d",
+      "role": "attendee"
+    },
+    {
+      "id": 3,
+      "name": "adrian",
+      "email": "adrian@gmail.com",
+      "password": "4ded3da94e01245f2a401bbbafb80128c80e4f6febeb04e1a684c2503a8d9dc2",
+      "role": "attendee"
+    }
+  ],
+  "events": [],
+  "venues": []
+}
